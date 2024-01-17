@@ -1,0 +1,21 @@
+ body {
+  font-family: Arial, sans-serif;
+  background-color: lightgray;
+  align-items: center;
+}
+
+.center {
+  margin: auto;
+}
+
+textarea {
+  width: 1000px;
+  height: 100px;
+
+}
+
+#submit {
+  font-size: 24px;
+  font-family: Arail, sans-serif;
+  background-color: lightcyan;
+}
